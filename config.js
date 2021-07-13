@@ -15,29 +15,21 @@ module.exports = {
     {
       label: 'Articles',
       path: '/'
-    },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Jungyoon Kim (Yoonie)',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Luck is what happens when preparation meets opportunity.',
     contacts: {
-      email: '',
+      email: 'jungyoon388@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
       github: '#',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/jungyoonie',
       instagram: '#',
       line: '',
       gitlab: '',
