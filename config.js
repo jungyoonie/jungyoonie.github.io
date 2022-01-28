@@ -4,8 +4,8 @@ const url = "https://jungyoonie.github.io/"
 module.exports = {
   url: url,
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Jungyoonie',
+  subtitle: 'wanna be a generalist',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
